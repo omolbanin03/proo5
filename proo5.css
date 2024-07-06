@@ -1,0 +1,44 @@
+@charset "utf-8";
+.new namber{
+
+justify-content: flex-end;
+}
+h3{
+    font-size: medium;
+    font-weight: lighter;
+    color: rgba(145, 135, 135, 0.9);
+    position: relative;
+    bottom: 10px;
+    
+}
+h4{
+    font-size: 30px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position:relative;
+    bottom: 40px;
+    
+}
+h5{
+    font-size: medium; 
+    font-weight: lighter;
+    color: slategrey;
+    position: relative;
+    bottom: 60px;
+    }
+    img{
+padding-left: 400px;
+ position:fixed;
+ bottom: 85%;
+
+    }
+h6{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(15, 13, 13);
+    position:relative;
+    bottom: 180px;
+    left: 500px;
+    
+}
+
